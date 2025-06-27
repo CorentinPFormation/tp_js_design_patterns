@@ -59,7 +59,7 @@ class ElementFactory {
 
 const gluten = ElementFactory.creerElement(TypeElement.ALLERGENE, 'Gluten', 70, Unite.GRAMMES);
 const sucre = ElementFactory.creerElement(TypeElement.INGREDIENT, 'Sucre', 100, Unite.MILLI_GRAMMES);
-const e330 = ElementFactory.creerElement(TypeElement.ADDITIF, 'Additif', 30, Unite.GRAMMES);
+const additif = ElementFactory.creerElement(TypeElement.ADDITIF, 'Additif', 30, Unite.GRAMMES);
 
 console.log(gluten);   
 console.log(sucre);    
