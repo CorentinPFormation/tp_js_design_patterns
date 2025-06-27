@@ -63,4 +63,4 @@ const additif = ElementFactory.creerElement(TypeElement.ADDITIF, 'Additif', 30, 
 
 console.log(gluten);   
 console.log(sucre);    
-console.log(e330);
+console.log(additif);
